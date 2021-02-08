@@ -1,0 +1,30 @@
+.dashboard{
+  height: 100vh;
+  background-color: azure;
+}
+
+.content {
+  padding: 200px 100px;
+  height: 100%;
+}
+
+.intro-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
